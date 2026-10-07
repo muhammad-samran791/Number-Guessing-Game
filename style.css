@@ -9,6 +9,7 @@
 html,
 body {
   font-family: "Roboto", sans-serif;
+  font-size: 140%;
 }
 
 main {
@@ -44,6 +45,7 @@ input[type="number"] {
   width: 50%;
   font-size: 1.2rem;
   padding: 0.5em 0.5em;
+  border: 2px solid black;
 }
 
 input[type="submit"] {
